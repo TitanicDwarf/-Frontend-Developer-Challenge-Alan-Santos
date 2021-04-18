@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-Frontend-Developer-Challenge-Alan-Santos/static/css/main.89a971a3.chunk.css",
+    "main.js": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/main.e5092afc.chunk.js",
+    "main.js.map": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/main.e5092afc.chunk.js.map",
+    "runtime-main.js": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/runtime-main.1a74e2e5.js",
+    "runtime-main.js.map": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/runtime-main.1a74e2e5.js.map",
+    "static/js/2.954d77c7.chunk.js": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/2.954d77c7.chunk.js",
+    "static/js/2.954d77c7.chunk.js.map": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/2.954d77c7.chunk.js.map",
+    "static/js/3.4c97bd54.chunk.js": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/3.4c97bd54.chunk.js",
+    "static/js/3.4c97bd54.chunk.js.map": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/3.4c97bd54.chunk.js.map",
+    "index.html": "/-Frontend-Developer-Challenge-Alan-Santos/index.html",
+    "static/css/main.89a971a3.chunk.css.map": "/-Frontend-Developer-Challenge-Alan-Santos/static/css/main.89a971a3.chunk.css.map",
+    "static/js/2.954d77c7.chunk.js.LICENSE.txt": "/-Frontend-Developer-Challenge-Alan-Santos/static/js/2.954d77c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a74e2e5.js",
+    "static/js/2.954d77c7.chunk.js",
+    "static/css/main.89a971a3.chunk.css",
+    "static/js/main.e5092afc.chunk.js"
+  ]
+}
